@@ -1,0 +1,20 @@
+node_modules/
+.env
+uploads/
+logs/
+dist/
+coverage/
+src/lib
+src/helpers
+src/config
+src/middleware
+src/controllers/ABC/
+src/controllers/tmsDocumentWalletController.js
+src/controllers/voyagerUploadDocumentsController - Copy (2).js
+src/controllers/voyagerUploadDocumentsController - Copy.js
+src/controllers/voyagerUploadDocumentsController.js
+src/controllers/voyagerUploadDocumentsController_20250411.js
+src/controllers/slotReportController.js
+src/controllers/slotReportController_20260430.js
+src/controllers/tmsDocumentWalletController_20251103.js
+src/controllers/userController.js
